@@ -1,6 +1,6 @@
 Pietrek_DSP_paper includes data and code to estimate occupancy of Diademed Plovers (Phegornis mitchellii at Lagunas de Vilama, Jujuy.
 
-datar contains data to estimate occupancy of Diademed Plovers (Phegornis mitchellii) at the RAMSAR site Lagunas de Vilama, Jujuy province, Argentina. Occupancy data were collected by Alejandro Pietrek, Bruce Lyon and Viviana Berrios following a removal design.Remotely-sensed variables were estimated by Andrea Izquierdo.
+datar contains data to estimate occupancy of Diademed Plovers (Phegornis mitchellii) at the RAMSAR site Lagunas de Vilama, Jujuy province, Argentina. Occupancy data were collected by Alejandro Pietrek, Bruce Lyon and Viviana Berrios following a removal design. Remotely-sensed variables were estimated by Andrea Izquierdo.
 
 Variables:
 
